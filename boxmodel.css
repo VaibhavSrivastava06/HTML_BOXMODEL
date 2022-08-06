@@ -1,0 +1,15 @@
+ *{
+	margin: 0;
+	padding: 0;
+} 
+
+.boxmodel{
+		width: 400px;
+		height: 200px;
+		background-color: red;
+		
+}
+input{
+	padding: 5px;
+	margin: 10px;
+}
